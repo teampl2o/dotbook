@@ -83,7 +83,7 @@ class _HomePageState extends State<HomePage> {
                             ),
                             Flexible(
                               child: Text(
-                                "Jeerasak Tirawongsarod",
+                                "FName SName",
                                 style: TextStyle(
                                     color: Colors.black.withOpacity(0.7),
                                     fontWeight: FontWeight.w500,
